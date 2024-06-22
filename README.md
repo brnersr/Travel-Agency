@@ -1,7 +1,7 @@
 # Rule-Based Classification and Data Analysis on Gezinomi Dataset
 This project employs rule-based classification and data analysis techniques to gain valuable insights from the Gezinomi dataset.
 
-### *Rule-Based Classification*
+### *Rule-Based Classification:*
 
 Customers in the dataset were classified based on their purchasing behavior, demographic information, and other relevant criteria.
 Rule-based algorithms were utilized for classification.
